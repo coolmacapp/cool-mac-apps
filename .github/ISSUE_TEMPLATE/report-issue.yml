@@ -1,0 +1,36 @@
+name: Report an Issue
+description: Report an error, outdated information, or a broken link in the list.
+title: "[Catalog Issue] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Help us keep this list accurate. Please don't include personal or sensitive data.
+  - type: input
+    id: entry
+    attributes:
+      label: App name or link
+      description: Which entry needs attention?
+      placeholder: App name or official website URL
+    validations:
+      required: true
+  - type: dropdown
+    id: issue_type
+    attributes:
+      label: What is wrong?
+      options:
+        - Broken or incorrect link
+        - Outdated or incorrect description
+        - Discontinued or unavailable app
+        - Incorrect category
+        - Duplicate listing
+        - Other
+    validations:
+      required: true
+  - type: textarea
+    id: details
+    attributes:
+      label: Details
+      description: What should be corrected? Include evidence or a source when possible.
+    validations:
+      required: true

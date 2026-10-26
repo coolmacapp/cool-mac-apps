@@ -1,0 +1,31 @@
+name: Suggest an App
+description: Recommend a Mac app for consideration in Cool Mac Apps.
+title: "[App Suggestion] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for suggesting an app! Submissions are reviewed, not published automatically. Please link the **official developer website**, not an affiliate or download mirror.
+  - type: input
+    id: name
+    attributes:
+      label: App name
+      placeholder: e.g. Example App
+    validations:
+      required: true
+  - type: input
+    id: website
+    attributes:
+      label: Official website
+      description: Link to the app's official site.
+      placeholder: https://example.com
+    validations:
+      required: true
+  - type: textarea
+    id: reason
+    attributes:
+      label: Why should we include it?
+      description: What does the app do, and why is it useful?
+      placeholder: A few sentences are enough.
+    validations:
+      required: true
