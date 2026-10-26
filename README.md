@@ -1,27 +1,12 @@
-<p align="center">
-  <a href="https://coolmac.app/apps">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://shieldcn.dev/header/dots.svg?title=Cool+Mac+Apps&amp;subtitle=A+curated+collection+of+useful+macOS+software&amp;logo=https%3A%2F%2Fcoolmacapp.vercel.app%2Fcoolmacapp-logo.webp&amp;align=center&amp;theme=slate&amp;mode=dark" />
-      <img src="https://shieldcn.dev/header/dots.svg?title=Cool+Mac+Apps&amp;subtitle=A+curated+collection+of+useful+macOS+software&amp;logo=https%3A%2F%2Fcoolmacapp.vercel.app%2Fcoolmacapp-logo.webp&amp;align=center&amp;theme=slate&amp;mode=light" alt="Cool Mac Apps - A curated collection of useful macOS software" width="100%" />
-    </picture>
-  </a>
-</p>
+# Cool Mac Apps - An Awesome macOS List
 
-<h1 align="center">Cool Mac Apps - An Awesome macOS List</h1>
+A curated collection of useful macOS apps, tools, and utilities worth discovering.
 
-<p align="center">
-  A thoughtfully curated collection of macOS apps, tools, and utilities worth discovering.
-</p>
+This repository is the open-source companion to [Cool Mac Apps](https://coolmac.app), an independent platform dedicated to helping people discover great Mac software. Apps are organized by category, with concise descriptions and links to their official websites.
 
-<p align="center">
-  <strong><a href="https://coolmac.app/apps">Browse all Mac apps ↗</a></strong>
-  &nbsp;·&nbsp;
-  <a href="../../issues/new?template=suggest-app.yml">Suggest an app</a>
-  &nbsp;·&nbsp;
-  <a href="CONTRIBUTING.md">Contribute</a>
-</p>
+Whether you're setting up a new Mac, looking for better tools, or simply exploring what's out there, this list is a good place to start.
 
----
+**[Browse all Mac apps](https://coolmac.app/apps)** · [Suggest an app](../../issues/new?template=suggest-app.yml) · [Contribute](CONTRIBUTING.md) · [Buy me a coffee](https://buymeacoffee.com/coolmacapp)
 
 ## Browse by category
 
@@ -220,26 +205,29 @@ A collection organized by each app’s primary category. Each entry includes a c
 
 ## Contributing
 
-Know a Mac app worth sharing? Have you spotted outdated information or an inaccurate description? Contributions are welcome.
+Know a great Mac app or found something that needs fixing? Contributions are welcome.
 
-- **[Suggest an app](../../issues/new?template=suggest-app.yml)** - Recommend a macOS app for editorial consideration.
-- **[Report an issue](../../issues/new?template=report-issue.yml)** - Flag broken links or incorrect information.
-- **Improve a listing** - Open a pull request with a factual correction or clearer description.
+- [Suggest an app](../../issues/new?template=suggest-app.yml) — Recommend an app for inclusion.
+- [Report an issue](../../issues/new?template=report-issue.yml) — Flag outdated information or broken links.
+- **Improve a listing** — Open a pull request to correct or improve a description.
 
-Please read the [contribution guidelines](CONTRIBUTING.md) and [editorial standards](EDITORIAL_GUIDELINES.md) before contributing. All changes are reviewed before acceptance.
+Before contributing, please read our [contribution guidelines](CONTRIBUTING.md) and [editorial standards](EDITORIAL_GUIDELINES.md). All submissions are reviewed.
+
+## Support Cool Mac Apps
+
+Cool Mac Apps is an independent project. If you enjoy
+the collection, consider supporting its development.
+
+<a href="https://buymeacoffee.com/coolmacapp">
+  <img
+    src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png"
+    alt="Buy Me a Coffee"
+    height="32"
+  />
+</a>
 
 ## License
 
-Original editorial content is licensed under [Creative Commons Attribution 4.0 International](LICENSE-CONTENT.md) (CC BY 4.0). Original software code, where explicitly designated, is licensed under the [MIT License](LICENSE-CODE).
+Original editorial content is licensed under [CC BY 4.0](LICENSE-CONTENT.md). Original code, where applicable, is licensed under [MIT](LICENSE-CODE).
 
-Third-party product names, trademarks, logos, and materials remain the property of their respective owners.
-
----
-
-<p align="center">
-  <sub>Made for people who love discovering good Mac software.</sub>
-</p>
-
-<p align="center">
-  <a href="https://coolmac.app/apps"><strong>Discover more apps at coolmac.app ↗</strong></a>
-</p>
+Third-party names, trademarks, logos, and other materials belong to their respective owners.
