@@ -43,9 +43,9 @@ Please don't add an app solely because it's popular or paid. We prioritize usefu
 
 ## Quality and attribution
 
-See [EDITORIAL_GUIDELINES.md](EDITORIAL_GUIDELINES.md) for the writing and verification checklist. Do not copy developers' descriptions verbatim, submit paid placements disguised as editorial recommendations, or imply that every app was personally tested.
+See [EDITORIAL_GUIDELINES.md](EDITORIAL_GUIDELINES.md) for the writing and verification checklist. Contributions must be original or properly authorized. Do not copy developers' descriptions or other third-party marketing text, submit paid placements disguised as editorial recommendations, or imply that every app was personally tested.
 
-By contributing **original editorial text**, you agree it may be distributed under [CC BY 4.0](LICENSE-CONTENT.md), with attribution. Do not submit content you lack permission to license. Future original automation scripts, if any, may be contributed under [MIT](LICENSE-CODE).
+By contributing **original editorial text**, you agree that it may be distributed under [CC BY 4.0](LICENSE), including its attribution and reuse terms. Do not submit content you lack permission to license. Code contributions require an explicitly identified applicable license; original software code designated as MIT-licensed is covered by the repository's [MIT License](docs/licenses/MIT.txt).
 
 ## Review process
 

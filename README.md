@@ -228,6 +228,12 @@ the collection, consider supporting its development.
 
 ## License
 
-Original editorial content is licensed under [CC BY 4.0](LICENSE-CONTENT.md). Original code, where applicable, is licensed under [MIT](LICENSE-CODE).
+Copyright © 2026 Cool Mac Apps contributors.
 
-Third-party names, trademarks, logos, and other materials belong to their respective owners.
+Original editorial content, including application descriptions, is licensed under [CC BY 4.0](LICENSE). Original software code is licensed under the [MIT License](docs/licenses/MIT.txt) only where explicitly designated.
+
+Third-party applications, names, trademarks, logos, icons, screenshots, artwork, and other proprietary materials are not covered by these licenses. Listing an application does not imply endorsement or affiliation with its developer.
+
+**Suggested attribution:** "Based on content from [Cool Mac Apps contributors](https://github.com/coolmacapp/cool-mac-apps), licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)."
+
+Indicate any modifications when applicable. The suggested wording does not impose additional license conditions.
