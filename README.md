@@ -70,6 +70,9 @@ A collection organized by each app’s primary category. Each entry includes a c
 
 ### Developer Tools
 
+- **Kitbar** - Shows deployment statuses, code checks, payments, and AI coding-tool usage in a slim desktop status bar with quick details from connected services.  
+  [Official website](https://kitbar.io/) · [Read more](https://coolmac.app/apps/kitbar)
+
 - **Tray** - Provides a Mac interface for browsing Claude Code projects, sessions, skills, and settings without navigating everything manually.  
   [Official website](https://parcse.com/tray) · [Read more](https://coolmac.app/apps/tray)
 
@@ -77,6 +80,9 @@ A collection organized by each app’s primary category. Each entry includes a c
   [Official website](https://wasdy.app/) · [Read more](https://coolmac.app/apps/wasdy)
 
 ### File Management
+
+- **Bloom** - A Finder alternative with multi-pane browsing, quick file search, batch renaming, archive previews, and undoable file operations.  
+  [Official website](https://bloomapp.club/) · [Read more](https://coolmac.app/apps/bloomapp)
 
 - **DigUp** - Searches local photos, PDFs, recordings, videos, and code using the content inside those files rather than only their filenames.  
   [Official website](https://github.com/ARahim3/DigUp) · [Read more](https://coolmac.app/apps/digup)
@@ -114,8 +120,14 @@ A collection organized by each app’s primary category. Each entry includes a c
 - **Cuewake** - Lets you attach context-aware notes, checklists, and reminders to the apps and web pages where you need to see them on your Mac.  
   [Official website](https://cuewake.app/) · [Read more](https://coolmac.app/apps/cuewake)
 
+- **Jolt** - A Mac launcher that uses natural language to find files, run app commands, control macOS settings, and access clipboard history.  
+  [Official website](https://usejolt.app/) · [Read more](https://coolmac.app/apps/usejolt)
+
 - **Monocle** - Helps you concentrate on the active Mac window by blurring distracting background windows while keeping your current work visible.  
   [Official website](https://trymonocle.app/) · [Read more](https://coolmac.app/apps/monocle)
+
+- **Soulver** - A notepad-style calculator that solves written math as you type, with linked results, reusable variables, and unit and currency conversions.  
+  [Official website](https://soulver.app/) · [Read more](https://coolmac.app/apps/soulver)
 
 - **TapMac** - Uses customizable MacBook tapping gestures to start dictation, edit selected text, and open clipboard history without switching apps.  
   [Official website](https://gettapmac.com/) · [Read more](https://coolmac.app/apps/tapmac)
