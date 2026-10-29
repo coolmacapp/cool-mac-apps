@@ -208,6 +208,9 @@ A collection organized by each app’s primary category. Each entry includes a c
 - **Betterswitch** - A macOS window switcher that lets you move directly between open windows and organize groups of apps into task-specific workspaces.  
   [Official website](https://www.betterswitch.app/) · [Read more](https://coolmac.app/apps/betterswitch)
 
+- **LayoutKeeper** - Restores window positions and Spaces after reconnecting an external display, with ambient-light brightness sync, USB-C arrangement presets, and sleep prevention.  
+  [Official website](https://github.com/tumingke0/LayoutKeeper)
+
 ### Writing
 
 - **Superwhisper** - An AI dictation app for macOS with offline transcription support, configurable writing modes, and tools for taking meeting notes.  
