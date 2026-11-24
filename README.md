@@ -93,6 +93,9 @@ A collection organized by each app’s primary category. Each entry includes a c
 - **Looq** - Extends Finder Quick Look to preview Markdown files, source code, databases, and archives without opening separate applications.  
   [Official website](https://parcse.com/looq) · [Read more](https://coolmac.app/apps/looq)
 
+- **QuickRight** - Adds a right-click menu to Finder for creating files from templates, moving and copying files, copying paths, opening a terminal in the current folder, converting images, and checking SHA-256 hashes.  
+  [Official website](https://apps.apple.com/us/app/quickright/id6763963598?mt=12)
+
 - **Tilde** - A native alternative to macOS Finder that provides split-view file browsing and customizable ways to arrange and organize files.  
   [Official website](https://tildeformac.com/) · [Read more](https://coolmac.app/apps/tilde)
 
