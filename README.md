@@ -37,6 +37,9 @@ A collection organized by each app’s primary category. Each entry includes a c
 - **Nativ** - Runs open AI models locally on your Mac with a chat interface, live usage analytics, and integrations for coding agents.  
   [Official website](https://blaizzy.github.io/nativ/) · [Read more](https://coolmac.app/apps/nativ)
 
+- **Octuo** - One place to run the agents you already use: a Mac assistant that hands work to Claude Code, Codex and MCP tools and follows up until it's done.  
+  [Official website](https://www.tutuo.ai/en/octuo)
+
 - **Openbroca** - Uses AI-powered voice dictation to clean up spoken text, insert it at the cursor, and translate speech into multiple languages.  
   [Official website](https://openbroca.com) · [Read more](https://coolmac.app/apps/openbroca)
 
